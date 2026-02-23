@@ -1,6 +1,6 @@
 ## Make Machine Guns Great Again 👋
 
-<!--
+
 ## 🐍 CONTRIBUTION FLOW
 
 <picture>
