@@ -1,6 +1,6 @@
 ## Make Machine Guns Great Again 👋
 
-<!--
+
 ## 🐍 CONTRIBUTION FLOW
 
 <picture>
@@ -13,7 +13,7 @@
 
 
 
-
+<!--
 
 **Efidripy/Efidripy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
