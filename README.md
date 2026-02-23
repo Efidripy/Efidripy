@@ -1,5 +1,8 @@
-## Make Machine Guns Great Again 👋
+<div align="center">
 
+# ✨ Make Machine Guns Great Again 👋
+<br>
+<br>
 
 ## 🐍 OMNOMNOM
 <picture>
@@ -9,8 +12,11 @@
 </picture>
 
 
-
-
+## 📊 Most Used Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Efidripy&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Efidripy&theme=default">
+</picture>
 
 <!--
 
@@ -27,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
