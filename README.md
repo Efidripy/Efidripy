@@ -17,6 +17,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Efidripy&theme=radical">
   <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Efidripy&theme=default">
 </picture>
+<br>
+<br>
+<picture>
+  <img alt="Top Langs" src="https://github.com/user-attachments/assets/ce97e182-5773-4ce3-8884-7937b336eb11">
+</picture>
+
 
 <!--
 
@@ -33,4 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 </div>
